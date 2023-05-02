@@ -1,5 +1,5 @@
 #+title:⚡ Flash Coffee Completions
-https://flash-coffee.com/id/menu/
+url menu: https://flash-coffee.com/id/menu/
 * Menu [5/47]
 - [ ] Americano
 - [ ] Aren Frappe
