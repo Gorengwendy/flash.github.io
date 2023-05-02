@@ -1,0 +1,64 @@
+#+title:⚡ Flash Coffee Completions
+https://flash-coffee.com/id/menu/
+* Menu [5/47]
+- [ ] Americano
+- [ ] Aren Frappe
+- [ ] Avo Choco Shake
+- [ ] Avo Latte
+- [ ] Black Rock
+- [X] Buttery Iftar Shake 9/10 - Creamy & savory, personal favorite. Tapi not for all.
+- [ ] Cappuccino
+- [ ] Caramel Latte
+- [X] Charcoal Latte 6/10 - Rasanya ga ada beda sama latte plain.
+- [ ] Choco Bliss
+- [ ] Choco Caramel Latte with Oatmilk
+- [ ] Choco Fudge Frappe
+- [ ] Choco Hazelnut Frappe
+- [ ] Chocolate Hazelnut Latte
+- [ ] Chocolate Hazelnut Shake
+- [ ] Chocomint Shake with Oatmilk
+- [ ] Clean Ice Tea
+- [ ] Coconut Latte
+- [ ] Coconut Matcha Shake
+- [ ] Coconut Oreo Shake
+- [ ] Espresso
+- [ ] Flash Chocolate
+- [ ] Latte Gula Aren
+- [ ] Latte Gula Aren with Almond Milk
+- [ ] Lemon Ice Tea
+- [ ] Lychee Ice Tea
+- [ ] Macadamia Frappe
+- [X] Macadamia Latte 8/10 - Pesanan default kalau gtw mau beli apa, enak.
+- [ ] Matcha Frappe
+- [X] Matcha Latte - 7/10 - Matchanya kerasa, ga terlalu essence rasanya. Jadi kalau yang suka matcha bakal lebih preferable daripada yang plain, tapi not as good as macadamia.
+- [ ] Matcha Macadamia Shake
+- [ ] Mocha Latte
+- [ ] Oatmilk Cappuccino
+- [ ] Oatmilk Latte
+- [ ] Oreo Cookies Cream Frappe
+- [ ] Oreo Shake
+- [ ] Pretea Girl
+- [ ] Sparkling Espresso
+- [ ] Sparkling Espresso with Lemon Flavor
+- [ ] Sparkling Espresso with Lychee Flavor
+- [ ] Strawberry Ice Tea
+- [X] Strawberry Latte 4/10 - Strawberrynya aneh rasanya, kayak "keset". Tapi sesudah beberapa kl minum, not bad sih.
+- [ ] Strawberry Shake
+- [ ] Thai tea
+- [ ] Toblerone Latte
+- [ ] Vanilla Ice Tea
+- [ ] Vanilla Latte
+
+* Misc
+- [ ] Choco Bliss (1L)
+- [ ] Mocha Latte (1L)
+- [ ] Flash Chocolate (1L)
+- [ ] Choco Bliss (600ml)
+- [ ] Mocha Latte (600ml)
+- [ ] Flash Chocolate (600ml)
+- [ ] Latte Gula Aren with Almond Milk (600ml)
+- [ ] Latte Gula Aren (600ml)
+- [ ] Flash Americano (600ml)
+- [ ] Latte (600ml)
+- [ ] Macadamia Latte (600ml)
+- [ ] Macadamia Latte (1L)
