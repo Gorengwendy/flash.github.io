@@ -38,7 +38,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [ ] Oreo Cookies Cream Frappe
 - [ ] Oreo Shake
 - [ ] Pretea Girl
-- [X] Sparkling Espresso 2/10 - No, just no
+- [X] Sparkling Espresso 1/10 - No, just no
 - [X] Sparkling Espresso with Lemon Flavor n/10 - yg original aja udh disgusting
 - [X] Sparkling Espresso with Lychee Flavor n/10 - gamau, sayang duit
 - [ ] Strawberry Ice Tea
