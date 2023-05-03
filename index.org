@@ -1,6 +1,6 @@
 #+title:⚡ Flash Coffee Completions
 url menu: https://flash-coffee.com/id/menu/
-* Menu [5/47]
+* Menu [8/47]
 - [ ] Americano
 - [ ] Aren Frappe
 - [ ] Avo Choco Shake
@@ -30,7 +30,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [ ] Macadamia Frappe
 - [X] Macadamia Latte 8/10 - Pesanan default kalau gtw mau beli apa, enak.
 - [ ] Matcha Frappe
-- [X] Matcha Latte - 7/10 - Matchanya kerasa, ga terlalu essence rasanya. Jadi kalau yang suka matcha bakal lebih preferable daripada yang plain, tapi not as good as macadamia.
+- [X] Matcha Latte 7/10 - Matchanya kerasa, ga terlalu essence rasanya. Jadi kalau yang suka matcha bakal lebih preferable daripada yang plain, tapi not as good as macadamia.
 - [ ] Matcha Macadamia Shake
 - [ ] Mocha Latte
 - [ ] Oatmilk Cappuccino
@@ -38,11 +38,11 @@ url menu: https://flash-coffee.com/id/menu/
 - [ ] Oreo Cookies Cream Frappe
 - [ ] Oreo Shake
 - [ ] Pretea Girl
-- [ ] Sparkling Espresso
-- [ ] Sparkling Espresso with Lemon Flavor
-- [ ] Sparkling Espresso with Lychee Flavor
+- [X] Sparkling Espresso 2/10 - No, just no
+- [X] Sparkling Espresso with Lemon Flavor n/10 - yg original aja udh disgusting
+- [X] Sparkling Espresso with Lychee Flavor n/10 - gamau, sayang duit
 - [ ] Strawberry Ice Tea
-- [X] Strawberry Latte 4/10 - Strawberrynya aneh rasanya, kayak "keset". Tapi sesudah beberapa kl minum, not bad sih.
+- [X] Strawberry Latte 3/10 - Strawberrynya aneh rasanya, kayak "keset". Tapi sesudah beberapa kl minum, not bad sih.
 - [ ] Strawberry Shake
 - [ ] Thai tea
 - [ ] Toblerone Latte
