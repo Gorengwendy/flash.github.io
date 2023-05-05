@@ -1,6 +1,7 @@
 #+title:⚡ Flash Coffee Completions
+Sponsored by: Ewaldo Samuel Flash Coffee Account
 url menu: https://flash-coffee.com/id/menu/
-* Menu [8/47]
+* Menu [9/47]
 - [ ] Americano
 - [ ] Aren Frappe
 - [ ] Avo Choco Shake
@@ -8,7 +9,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [ ] Black Rock
 - [X] Buttery Iftar Shake 9/10 - Creamy & savory, personal favorite. Tapi not for all.
 - [ ] Cappuccino
-- [ ] Caramel Latte
+- [X] Caramel Latte 7.5/10 - Enak, kalau bingung mau mesen apa tinggal pilih ini.
 - [X] Charcoal Latte 6/10 - Rasanya ga ada beda sama latte plain.
 - [ ] Choco Bliss
 - [ ] Choco Caramel Latte with Oatmilk
@@ -48,17 +49,3 @@ url menu: https://flash-coffee.com/id/menu/
 - [ ] Toblerone Latte
 - [ ] Vanilla Ice Tea
 - [ ] Vanilla Latte
-
-* Misc
-- [ ] Choco Bliss (1L)
-- [ ] Mocha Latte (1L)
-- [ ] Flash Chocolate (1L)
-- [ ] Choco Bliss (600ml)
-- [ ] Mocha Latte (600ml)
-- [ ] Flash Chocolate (600ml)
-- [ ] Latte Gula Aren with Almond Milk (600ml)
-- [ ] Latte Gula Aren (600ml)
-- [ ] Flash Americano (600ml)
-- [ ] Latte (600ml)
-- [ ] Macadamia Latte (600ml)
-- [ ] Macadamia Latte (1L)
