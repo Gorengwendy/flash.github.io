@@ -1,7 +1,7 @@
 #+title:⚡ Flash Coffee Completions
 Sponsored by: Ewaldo Samuel Flash Coffee Account
 url menu: https://flash-coffee.com/id/menu/
-* Menu [9/47]
+* Menu [10/47]
 - [ ] Americano
 - [ ] Aren Frappe
 - [ ] Avo Choco Shake
@@ -48,4 +48,4 @@ url menu: https://flash-coffee.com/id/menu/
 - [ ] Thai tea
 - [ ] Toblerone Latte
 - [ ] Vanilla Ice Tea
-- [ ] Vanilla Latte
+- [X] Vanilla Latte 8/10 - Better than caramel latte, hampir mendekati macadamia. Overall enak, kalau males mikir boleh ini.
