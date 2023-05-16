@@ -1,7 +1,7 @@
 #+title:⚡ Flash Coffee Completions
 Sponsored by: Ewaldo Samuel Flash Coffee Account
 url menu: https://flash-coffee.com/id/menu/
-* Menu [13/47]
+* Menu [14/47]
 - [ ] Americano
 - [ ] Aren Frappe
 - [ ] Avo Choco Shake
@@ -38,7 +38,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [ ] Oatmilk Latte
 - [ ] Oreo Cookies Cream Frappe
 - [ ] Oreo Shake
-- [ ] Pretea Girl
+- [X] Pretea Girl 8/10 - enak, kalau suka milk tea pasti suka. Tapi preferable less sugar.
 - [X] Sparkling Espresso 1/10 - No, just no
 - [X] Sparkling Espresso with Lemon Flavor n/10 - yg original aja udh disgusting
 - [X] Sparkling Espresso with Lychee Flavor n/10 - gamau, sayang duit
