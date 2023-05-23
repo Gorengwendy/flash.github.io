@@ -1,7 +1,7 @@
 #+title:⚡ Flash Coffee Completions
 Sponsored by: Ewaldo Samuel Flash Coffee Account
 url menu: https://flash-coffee.com/id/menu/
-* Menu [16/47]
+* Menu [17/47]
 - [ ] Americano
 - [ ] Aren Frappe
 - [ ] Avo Choco Shake
@@ -11,7 +11,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [ ] Cappuccino
 - [X] Caramel Latte 7.5/10 - Enak, kalau bingung mau mesen apa tinggal pilih ini.
 - [X] Charcoal Latte 6/10 - Rasanya ga ada beda sama latte plain.
-- [ ] Choco Bliss
+- [X] Choco Bliss 6/10 - Coklat, ya standar sih.
 - [ ] Choco Caramel Latte with Oatmilk
 - [ ] Choco Fudge Frappe
 - [ ] Choco Hazelnut Frappe
