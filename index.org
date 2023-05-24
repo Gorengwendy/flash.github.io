@@ -1,8 +1,8 @@
 #+title:⚡ Flash Coffee Completions
 Sponsored by: Ewaldo Samuel Flash Coffee Account
 url menu: https://flash-coffee.com/id/menu/
-* Menu [17/47]
-- [ ] Americano
+* Menu [18/47]
+- [X] Americano 6/10 - Standar
 - [ ] Aren Frappe
 - [ ] Avo Choco Shake
 - [ ] Avo Latte
