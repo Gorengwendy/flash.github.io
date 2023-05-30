@@ -1,11 +1,11 @@
 #+title:⚡ Flash Coffee Completions
 Sponsored by: Ewaldo Samuel Flash Coffee Account
 url menu: https://flash-coffee.com/id/menu/
-* Menu [18/47]
+* Menu [21/47]
 - [X] Americano 6/10 - Standar
 - [ ] Aren Frappe
 - [ ] Avo Choco Shake
-- [ ] Avo Latte
+- [X] Avo Latte 7/10 - Standar, kayak latte biasa tp ada sedikit rasa avocado, hampir gbs dibedain.
 - [ ] Black Rock
 - [X] Buttery Iftar Shake 9/10 - Creamy & savory, personal favorite. Tapi not for all.
 - [ ] Cappuccino
@@ -21,7 +21,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [X] Clean Ice Tea 4/10 - teh sosro overpriced
 - [X] Coconut Latte 8/10 - Overall nice, tapi harus suka kelapa.
 - [X] Coconut Matcha Shake 8.5/10 - mendekati ifrar shake, very good. after tastenya enak, kayak kelapa parut.
-- [ ] Coconut Oreo Shake
+- [X] Coconut Oreo Shake 8/10 - Recommended kalau mau coba coconut based.
 - [ ] Espresso
 - [ ] Flash Chocolate
 - [ ] Latte Gula Aren
@@ -44,7 +44,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [X] Sparkling Espresso with Lychee Flavor n/10 - gamau, sayang duit
 - [ ] Strawberry Ice Tea
 - [X] Strawberry Latte 3/10 - Strawberrynya aneh rasanya, kayak "keset". Tapi sesudah beberapa kl minum, not bad sih.
-- [ ] Strawberry Shake
+- [X] Strawberry Shake
 - [ ] Thai tea
 - [X] Toblerone Latte 6/10 - Beneran latte normal, dicelupin toblerone. Not worth
 - [X] Vanilla Ice Tea 8/10 - Tehnya lebih enak daripada kopinya, kalau yg doyan teh very recommended, also vanilla tastenya pas.
