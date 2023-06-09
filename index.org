@@ -1,51 +1,57 @@
 #+title:⚡ Flash Coffee Completions
 Sponsored by: Ewaldo Samuel Flash Coffee Account
 url menu: https://flash-coffee.com/id/menu/
-* Menu [23/47]
-- [X] Americano 6/10 - Standar
-- [ ] Aren Frappe
-- [ ] Avo Choco Shake
-- [X] Avo Latte 7/10 - Standar, kayak latte biasa tp ada sedikit rasa avocado, hampir gbs dibedain.
-- [ ] Black Rock
+* Tested
+** Recommendation
 - [X] Buttery Iftar Shake 9/10 - Creamy & savory, personal favorite. Tapi not for all.
-- [ ] Cappuccino
+- [X] Coconut Matcha Shake 8.5/10 - mendekati ifrar shake, very good. after tastenya enak, kayak kelapa parut.
+- [X] Macadamia Latte 8/10 - Pesanan default kalau gtw mau beli apa, enak.
+- [X] Coconut Latte 8/10 - Overall nice, tapi harus suka kelapa.
+- [X] Coconut Oreo Shake 8/10 - Recommended kalau mau coba coconut based.
+- [X] Pretea Girl 8/10 - enak, kalau suka milk tea pasti suka. Tapi preferable less sugar.
+- [X] Vanilla Ice Tea 8/10 - Tehnya lebih enak daripada kopinya, kalau yg doyan teh very recommended, also vanilla tastenya pas.
+- [X] Latte Gula Aren 7.5/10 - Pesanan default kalau alergi kacang, kalau ga ya macadamia.
 - [X] Caramel Latte 7.5/10 - Enak, kalau bingung mau mesen apa tinggal pilih ini.
+** Meh
+- [X] Vanilla Latte 7/10 - Better than caramel latte, hampir mendekati macadamia. Overall enak, kalau males mikir boleh ini.
+- [X] Avo Latte 7/10 - Standar, kayak latte biasa tp ada sedikit rasa avocado, hampir gbs dibedain.
+- [X] Matcha Latte 7/10 - Matchanya kerasa, ga terlalu essence rasanya. Jadi kalau yang suka matcha bakal lebih preferable daripada yang plain, tapi not as good as macadamia.
+- [X] Toblerone Latte 6/10 - Beneran latte normal, dicelupin toblerone. Not worth
+- [X] Americano 6/10 - Standar
 - [X] Charcoal Latte 6/10 - Rasanya ga ada beda sama latte plain.
 - [X] Choco Bliss 6/10 - Coklat, ya standar sih.
+- [X] Chocomint Shake with Oatmilk 5/10 - oatside tambah pepsoden, well biasa aja sih.
+** Not Recommended
+- [X] Clean Ice Tea 4/10 - teh sosro overpriced
+- [X] Strawberry Shake 4/10 - Indomilk strawberry, beli aja di indomart
+- [X] Strawberry Latte 3/10 - Strawberrynya aneh rasanya, kayak "keset". Tapi sesudah beberapa kl minum, not bad sih.
+** Sparkling Espresso
+- [X] Sparkling Espresso 1/10 - No, just no
+- [X] Sparkling Espresso with Lemon Flavor n/10 - yg original aja udh disgusting
+- [X] Sparkling Espresso with Lychee Flavor n/10 - gamau, sayang duit
+
+* Not Tested
+- [ ] Aren Frappe
+- [ ] Avo Choco Shake
+- [ ] Black Rock
+- [ ] Cappuccino
 - [ ] Choco Caramel Latte with Oatmilk
 - [ ] Choco Fudge Frappe
 - [ ] Choco Hazelnut Frappe
 - [ ] Chocolate Hazelnut Latte
 - [ ] Chocolate Hazelnut Shake
-- [X] Chocomint Shake with Oatmilk 5/10 - oatside tambah pepsoden, well biasa aja sih.
-- [X] Clean Ice Tea 4/10 - teh sosro overpriced
-- [X] Coconut Latte 8/10 - Overall nice, tapi harus suka kelapa.
-- [X] Coconut Matcha Shake 8.5/10 - mendekati ifrar shake, very good. after tastenya enak, kayak kelapa parut.
-- [X] Coconut Oreo Shake 8/10 - Recommended kalau mau coba coconut based.
 - [ ] Espresso
 - [ ] Flash Chocolate
-- [X] Latte Gula Aren 7.5/10 - Pesanan default kalau alergi kacang, kalau ga ya macadamia.
 - [ ] Latte Gula Aren with Almond Milk
 - [ ] Lemon Ice Tea
 - [ ] Lychee Ice Tea
 - [ ] Macadamia Frappe
-- [X] Macadamia Latte 8/10 - Pesanan default kalau gtw mau beli apa, enak.
 - [ ] Matcha Frappe
-- [X] Matcha Latte 7/10 - Matchanya kerasa, ga terlalu essence rasanya. Jadi kalau yang suka matcha bakal lebih preferable daripada yang plain, tapi not as good as macadamia.
 - [ ] Matcha Macadamia Shake
 - [ ] Mocha Latte
 - [ ] Oatmilk Cappuccino
 - [ ] Oatmilk Latte
 - [ ] Oreo Cookies Cream Frappe
 - [ ] Oreo Shake
-- [X] Pretea Girl 8/10 - enak, kalau suka milk tea pasti suka. Tapi preferable less sugar.
-- [X] Sparkling Espresso 1/10 - No, just no
-- [X] Sparkling Espresso with Lemon Flavor n/10 - yg original aja udh disgusting
-- [X] Sparkling Espresso with Lychee Flavor n/10 - gamau, sayang duit
 - [ ] Strawberry Ice Tea
-- [X] Strawberry Latte 3/10 - Strawberrynya aneh rasanya, kayak "keset". Tapi sesudah beberapa kl minum, not bad sih.
-- [X] Strawberry Shake
 - [ ] Thai tea
-- [X] Toblerone Latte 6/10 - Beneran latte normal, dicelupin toblerone. Not worth
-- [X] Vanilla Ice Tea 8/10 - Tehnya lebih enak daripada kopinya, kalau yg doyan teh very recommended, also vanilla tastenya pas.
-- [X] Vanilla Latte 7/10 - Better than caramel latte, hampir mendekati macadamia. Overall enak, kalau males mikir boleh ini.
