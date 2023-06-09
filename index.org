@@ -1,7 +1,7 @@
 #+title:⚡ Flash Coffee Completions
 Sponsored by: Ewaldo Samuel Flash Coffee Account
 url menu: https://flash-coffee.com/id/menu/
-* Menu [22/47]
+* Menu [23/47]
 - [X] Americano 6/10 - Standar
 - [ ] Aren Frappe
 - [ ] Avo Choco Shake
@@ -24,7 +24,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [X] Coconut Oreo Shake 8/10 - Recommended kalau mau coba coconut based.
 - [ ] Espresso
 - [ ] Flash Chocolate
-- [ ] Latte Gula Aren
+- [X] Latte Gula Aren 7.5/10 - Pesanan default kalau alergi kacang, kalau ga ya macadamia.
 - [ ] Latte Gula Aren with Almond Milk
 - [ ] Lemon Ice Tea
 - [ ] Lychee Ice Tea
