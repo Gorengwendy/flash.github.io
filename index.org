@@ -12,7 +12,7 @@ url menu: https://flash-coffee.com/id/menu/
 - [X] Vanilla Ice Tea 8/10 - Tehnya lebih enak daripada kopinya, kalau yg doyan teh very recommended, also vanilla tastenya pas.
 - [X] Latte Gula Aren 7.5/10 - Pesanan default kalau alergi kacang, kalau ga ya macadamia.
 - [X] Caramel Latte 7.5/10 - Enak, kalau bingung mau mesen apa tinggal pilih ini.
-** Meh
+** Meh/biasa aja
 - [X] Vanilla Latte 7/10 - Better than caramel latte, hampir mendekati macadamia. Overall enak, kalau males mikir boleh ini.
 - [X] Avo Latte 7/10 - Standar, kayak latte biasa tp ada sedikit rasa avocado, hampir gbs dibedain.
 - [X] Matcha Latte 7/10 - Matchanya kerasa, ga terlalu essence rasanya. Jadi kalau yang suka matcha bakal lebih preferable daripada yang plain, tapi not as good as macadamia.
@@ -20,8 +20,8 @@ url menu: https://flash-coffee.com/id/menu/
 - [X] Americano 6/10 - Standar
 - [X] Charcoal Latte 6/10 - Rasanya ga ada beda sama latte plain.
 - [X] Choco Bliss 6/10 - Coklat, ya standar sih.
-- [X] Chocomint Shake with Oatmilk 5/10 - oatside tambah pepsoden, well biasa aja sih.
 ** Not Recommended
+- [X] Chocomint Shake with Oatmilk 5/10 - oatside tambah pepsoden, well biasa aja sih.
 - [X] Clean Ice Tea 4/10 - teh sosro overpriced
 - [X] Strawberry Shake 4/10 - Indomilk strawberry, beli aja di indomart
 - [X] Strawberry Latte 3/10 - Strawberrynya aneh rasanya, kayak "keset". Tapi sesudah beberapa kl minum, not bad sih.
